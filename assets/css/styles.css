@@ -492,6 +492,10 @@ img {
   width: 85%;
 }
 
+.skills__git {
+  width: 75%;
+}
+
 .skills__img {
   border-radius: .5rem;
 }
